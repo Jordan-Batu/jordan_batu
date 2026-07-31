@@ -1,4 +1,4 @@
 # jordan_batu
 #Jordan Batu
 Web Development
-Live site: https://github.com/Jordan-Batu/jordan_batu.git
+Live site: https://jordan-batu.github.io/jordan_batu/
